@@ -40,7 +40,7 @@
 .reset{
     position: absolute;
     left: 1%;
-    bottom: 34%;
+    bottom: 150px;
     animation: reset 0.1s linear;
     
 }
